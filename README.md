@@ -9,7 +9,7 @@
 
 <br>
 
-[作問リスト(準備中)](https://harurunrunrun.github.io/Homepages/src/problemlist.html)
+[作問リスト](https://harurunrunrun.github.io/Homepages/src/problemlist.html)
 
 <br>
 
