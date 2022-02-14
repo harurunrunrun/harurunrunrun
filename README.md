@@ -5,11 +5,11 @@
   <img src="https://profile-counter.glitch.me/harurunrunrun/count.svg" />
 </p>
 
-[ホームページみたいなもの(準備中)]()
+[ホームページみたいなもの(準備中)](https://harurunrunrun.github.io/Homepages/)
 
 <br>
 
-[作問リスト(準備中)]()
+[作問リスト(準備中)](https://harurunrunrun.github.io/Homepages/src/problemlist.html)
 
 <br>
 
