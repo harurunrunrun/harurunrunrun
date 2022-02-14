@@ -1,16 +1,27 @@
-### Hi there 👋
+# harurun
 
-<!--
-**harurunrunrun/harurunrunrun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/harurunrunrun/count.svg" />
+</p>
 
-Here are some ideas to get you started:
+[ホームページみたいなもの(準備中)]()
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+[作問リスト(準備中)]()
+
+<br>
+
+[![harurun](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2Fharurun)](https://atcoder.jp/users/harurun)
+
+<br>
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/harurun_p?style=social)](https://twitter.com/harurun_p) 
+
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harurunrunrun&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
+
+
+
