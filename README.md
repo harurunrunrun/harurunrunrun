@@ -24,4 +24,16 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harurunrunrun&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
 
 
+<br>
+●自己紹介●
 
+情報系B3
+
+●競プロ用ライブラリ●
+
+python http://bit.ly/2O1lrna
+C++ http://bit.ly/3srxoRN
+
+●はてなブログ●
+
+ブログ本体 https://harurunppp.hatenablog.com/
